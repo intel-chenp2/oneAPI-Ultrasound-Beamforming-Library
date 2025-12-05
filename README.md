@@ -1,3 +1,8 @@
+<a href="https://scan.coverity.com/projects/intel-chenp2-oneapi-ultrasound-beamforming-library">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/32731/badge.svg"/>
+</a>
+
 
 # oneAPI-Ultrasound-Beamforming-Library
 
